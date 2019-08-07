@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565200952 source:d:\kursus\bahasac\irvan c\temp\merubahwarnatulisanperbaris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
