@@ -2,15 +2,6 @@
 #include <stdlib.h>
 #include <windows.h>
 
-// inisialisasi fungsi atau method
-void teksBiruTua();
-void teksBiruTerang();
-void teksHijauTua();
-void teksHijauTerang();
-void teksMerahTua();
-void teksMerahTerang();
-void kembalikanWarna();
-
 /* ============================================================================================================
 mengambil handle dari windows yang aktif
 referensi: https://stackoverflow.com/questions/9203362/c-color-text-in-terminal-applications-in-windows
